@@ -1,4 +1,4 @@
-#!/usr/env python
+#!/usr/bin/env python
 
 ###############################################################################################################
 ## [Title]: linuxprivchecker.py -- a Linux Privilege Escalation Check Script
