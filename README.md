@@ -1,9 +1,11 @@
-# Linux post exploitation enumerators and exploit checkers
+# Linux post exploitation enumeration and exploit checking tools
 
 ## linenum.sh
 
 Source: https://github.com/rebootuser/LinEnum
+
 Author: Rebootuser
+
 Updated: Jun 15 2015
 
 
