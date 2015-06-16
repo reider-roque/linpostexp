@@ -1,6 +1,6 @@
 # Linux post exploitation enumeration and exploit checking tools
 
-The *Updated* date is the date the corresponding script was updated in *this* repository.
+The *Updated* date is the date the corresponding tool was updated in *this* repository.
 
 
 ## linenum.sh
